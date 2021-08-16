@@ -51,7 +51,6 @@ td {
   color: #000;
   display: table-cell;
   padding: 0 5px 7px 5px;
-  vertical-align: inherit;
 }
 
 p, td {
@@ -63,5 +62,10 @@ p, td {
 
 label {
   display: block;
-  margin-to: 10px;
+  margin-top: 10px;
+}
+
+
+a {
+  margin-top: 10px
 }
